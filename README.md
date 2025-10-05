@@ -1,6 +1,7 @@
 ## Hola <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-🔭 Soy Desarrolladora FrontEnd, trabajo con VTEX IO, Shopify, React, SASS y CSS.
+🔭 Soy Desarrolladora FrontEnd, trabajo con plataformas de Ecommerce: VTEX IO, Shopify.
+Ademas de tecnologias como: React, SASS y CSS.
 
 
 
